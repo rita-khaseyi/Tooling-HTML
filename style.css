@@ -1,0 +1,168 @@
+.navbar{
+    display: flex;
+}
+.navbar a{
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .first{
+   background-image: url(/images/back.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+    
+  }
+  .intro{
+    text-align: center;
+    margin-right: 15%;
+    
+  }
+  .john{
+    font-size: 60px;
+    margin-top: 10%;
+  }
+  .jon{
+    padding: 12px 4px;
+    background-color: palevioletred;
+  }
+  .one{
+    width: 250px;
+    height: 250px;
+    margin-left: 5%;
+    
+  }
+  .on{
+    padding: 20px 15px;
+  }
+  .tw{
+    padding: 20px 15px;
+  }
+  .th{
+    padding: 20px 15px;
+  }
+  .im{
+    padding: 20px 15px;
+  }
+  .cl{
+    padding: 20px 15px;
+  }
+  .dr{
+    padding: 20px 15px;
+  }
+  .sa{
+
+    padding: 20px 15px;
+  }
+  .cl{
+    padding: 20px 15px;
+  }
+  .fo{
+    padding: 20px 15px;
+  }
+  .pro{
+    text-align: center;
+    margin-right: 15%;
+  }
+  .two{
+    width: 250px;
+    height: 250px;
+  }
+  .three{
+    width: 250px;
+    height: 250px;
+
+  }
+  .pics{
+    display: flex;
+  }
+  .str{
+    color: red;
+  }
+  .feat{
+    text-align: center;
+    font-size: xx-large;
+  }
+  .clothes{
+    width: 300px;
+    height: 500px;
+  }
+  .imas{
+    width: 300px;
+    height: 500px;
+  }
+  .dres{
+    width: 300px;
+    height: 500px;
+  }
+  .last{
+    display: flex;
+  }
+  .main{
+    display: flex;
+  }
+  .three{
+    width: 250px;
+    height: 250px;
+  }
+  .save{
+    width: 250px;
+    height: 250px;
+  }
+  .clo{
+    width: 250px;
+    height: 250px;
+  }
+  .di{
+display: flex;
+  }
+  .four{
+    width: 250px;
+    height: 250px;
+  }
+  .lasts{
+    display: flex;
+  }
+  .mai{
+
+    padding: 1.25rem;
+    min-width: 12.5rem;
+}
+.body{
+  display: flex;
+}
+.ul{
+  padding-left: 0%;
+}
+a{
+  color:black;
+  text-decoration: none;
+}
+footer{
+    background-color:peachpuff;
+}
+
+.irm{
+    width: 250px;
+    height: 250px;
+}
+.jpg{
+    width: 250px;
+    height: 250px;
+}
+.jp{
+    padding: 20px 15px;
+}
+
+.st{
+    padding: 20px 15px; 
+}
+.sta{
+    width: 250px;
+    height: 250px;
+}
+.pho{
+    display: flex;
+}
+
